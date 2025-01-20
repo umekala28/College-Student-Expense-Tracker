@@ -1,5 +1,3 @@
-# College-Student-Expense-Tracker
-A Python-based expense tracker for college students.
 # College Student Expense Tracker
 
 Inspired by my own inability to track finances stepping out of the home nest as a freshman, starting on exel but unaware of categories, to paying for apps for this purpose, I created the **College Student Expense Tracker** is a Python-based tool designed to help college students manage their income, expenses, and savings. It simplifies budgeting and financial tracking, allowing students to focus on their academic and personal goals without worrying about finances.
