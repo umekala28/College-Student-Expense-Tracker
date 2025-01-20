@@ -1,0 +1,41 @@
+# Ignore MacOS system files
+.DS_Store
+.Trash/
+
+# Ignore user configuration files
+.zshrc
+.bash_profile
+.zsh_history
+.viminfo
+
+# Ignore Python-related files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter and Anaconda files
+.ipynb_checkpoints/
+.anaconda/
+.jupyter/
+.ipython/
+.keras/
+.matplotlib/
+
+# Ignore IDE and editor files
+.vscode/
+eclipse-workspace/
+*.swp
+
+# Ignore npm and Node.js files
+node_modules/
+package-lock.json
+
+# Ignore everything else in the home directory
+/*
+!college_student_expense_tracker.py
+!college_expense_tracker.csv
+
+# Ignore everything else in the home directory
+/*
+!college_student_expense_tracker.py
+!college_expense_tracker.csv
+!.gitignore

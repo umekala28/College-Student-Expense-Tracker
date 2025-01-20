@@ -1,0 +1,11 @@
+Category,Amount,Type
+parental ,700.0,income
+support,0.0,income
+job,400.0,income
+/usr/local/bin/python3 /Users/urvimekala/college_student_expense_tracker.py,4.0,income
+4,5090.0,income
+Housing,400.0,fixed
+Dining/Groceries,200.0,fixed
+Subscriptions,200.0,fixed
+Credit Card Payment,200.0,fixed
+Savings Goal,100.0,fixed
